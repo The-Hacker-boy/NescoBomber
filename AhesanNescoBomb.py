@@ -9,4 +9,4 @@ headers = {
 data = {'phone_number':number}
 for i in range(amount):
     a =requests.post(api,headers=headers,json=data)
-    print(str(i+1)+"Attack by Mr AhesaN")
+    print(str(i+1)+"Attacked by Dangerous Boy Mr AhesaN")
