@@ -8,7 +8,7 @@ logo = ("""\033[1;32m
 ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═══╝ \033
                                                   
 import requests 
-print(logo
+print(logo)
 number = str(input("Please inter victim's number:+880"))
 
 amount = int(input("Enter amount: "))
